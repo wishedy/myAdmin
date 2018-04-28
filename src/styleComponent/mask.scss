@@ -1,0 +1,8 @@
+@mixin maskBg(){
+    background: #1BBC9B;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 2000;
+    color: #df0d4c;
+}
